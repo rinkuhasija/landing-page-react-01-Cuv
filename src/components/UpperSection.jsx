@@ -30,7 +30,7 @@ const UpperSection = () => {
                         <p className="below-form-p">Free - No Spam - No Data Sharing</p>
                     </div>
                     <div className="col-lg-5 right">
-                        <img src="/dweep io 1gg.png" />
+                        <img src="./dweep io 1gg.png" />
                     </div>
                 </div>
             </div>
